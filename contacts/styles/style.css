@@ -1,0 +1,93 @@
+#title {
+	font-weight: 700;
+	font-size: 48px;
+	color: rgba(48, 203, 194, 1);
+	margin-top: 54px;
+	margin-left: 92px;
+}
+
+
+#active{
+    font-weight: 700;
+    font-size: 26px;
+    color: rgba(78, 111, 174, 1);
+    margin-top: 66px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+
+#yep {
+	margin-left: 81px;
+}
+
+nav {
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 26px;
+	color: rgba(141, 129, 255, 1);
+	margin-top: 66px;
+	margin-left: 87px;
+}
+
+.child {
+	width: 1660px;
+	height: 735px;
+	background-color: rgba(231, 231, 231, 1);
+	vertical-align: bottom;
+	display: inline-block;
+}
+
+.head {
+	font-weight: 700;
+	font-size: 36px;
+	color: rgba(78, 111, 174, 1);
+	margin-left: 162px;
+	margin-top: 93px;
+    display: inline-block;
+
+}
+
+#address {
+	font-weight: 400;
+	font-size: 20px;
+	margin-left: 162px;
+	margin-top: 27px;
+}
+
+span {
+	color: rgba(126, 136, 152, 1);
+}
+
+#img {
+	width: 944px;
+	height: 549px;
+	margin-left: 676px;
+	padding-top: 93px;
+	vertical-align: bottom;
+}
+
+#youtube {
+	width: 71px;
+	height: 48px;
+	margin-left: 14px;
+}
+
+#facebook {
+	margin-left: 96px;
+	width: 50px;
+	height: 50px;
+	margin-right:14px;
+}
+
+.line {
+	width: 2px;
+	height: 48px;
+    background-color: rgba(80, 18, 213, 1);
+    display: inline-block;
+    margin:0 41px;
+}
+
