@@ -4,6 +4,7 @@
 	color: rgba(48, 203, 194, 1);
 	margin-top: 54px;
 	margin-left: 63px;
+	font-family: inter;
 }
 
 #active{
@@ -94,6 +95,7 @@ a {
     font-size: 20px;
     margin-left: 23px;
     margin-top: 21px;
+    font-family: Roboto;
 }
 
 p {
@@ -107,6 +109,8 @@ p {
 #first-text {
 	display: flex;
 	margin-top: 20px;
+	font-family: Roboto;
+	line-height: 100%;
 }
 
 #youtube {

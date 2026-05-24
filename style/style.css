@@ -1,3 +1,4 @@
+
 #title {
 	font-weight: 700;
 	font-size: 48px;
@@ -63,6 +64,8 @@ a {
 	color: rgba(141, 129, 255, 1);
 	margin-top: 18px;
     margin-left: 52px;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+    line-height: 100%;
 }
 
 .title {
@@ -71,6 +74,7 @@ a {
 	color: rgba(78, 111, 174, 1);
 	margin-top: 8px;
 	margin-left: 52px;
+	font-family: "BPG Square", sans-serif;
 }
 
 img {
@@ -85,6 +89,9 @@ img {
 	color: rgba(78, 111, 174, 1);
 	margin-left: 565px;
 	width: 778px;
+	line-height: 100%;
+	letter-spacing: 0%;
+	font-family: "BPG Nostalgia", sans-serif;
 }
 
 .content {
